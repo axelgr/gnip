@@ -1,7 +1,3 @@
-reated on Thu Dec  1 18:04:56 2016
-
-@author: axelgr
-"""
 from pyrichit import CognitiveRichit
 from kafka import KafkaConsumer, KafkaProducer
 import datetime
